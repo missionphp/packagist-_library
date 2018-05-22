@@ -2,7 +2,7 @@
     "name": "missionphp/addition",
     "description": "testing mission php.",
     "keywords": ["template", "composer", "package"],
-    "license": "missionphp",
+    "license": "MIT",
     "authors": [
         {
             "name": "mission php",
