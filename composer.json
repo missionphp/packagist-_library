@@ -2,7 +2,7 @@
     "name": "missionphp/addition",
     "description": "testing mission php.",
     "keywords": ["template", "composer", "package"],
-    "license": "DBAD",
+    "license": "missionphp",
     "authors": [
         {
             "name": "mission php",
